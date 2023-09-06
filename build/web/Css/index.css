@@ -1,0 +1,72 @@
+
+body {
+    
+    background-image: url(../Imagenes/2.jpg);
+
+    font-family:  cursive;
+}
+
+button {
+
+    background-color: #ccc;
+    color: #000;
+    width: 70px;
+    padding: 10px;
+    border: 1px solid #000;
+    border-radius: 5px;
+
+
+}
+.contenedor{
+    width:900px;
+    margin:auto;
+
+}
+
+#title {
+    margin: 150px 580px 150px 580px;
+    height: 0px;
+    width: 0px;
+    background-color: #E7EBF5;
+    border-style: unset;
+   
+}
+
+#codigo{
+    margin:auto;
+    height: 20px;
+    width: 140px;
+    background-color: #E7EBF5;
+    border: 2px solid  #000;
+   
+}
+#nombre{
+    margin:auto;
+    height: 20px;
+    width: 140px;
+    background-color: #E7EBF5;
+    border: 2px solid  #000;
+   
+}
+#existencias{
+    margin:auto;
+    height: 20px;
+    width: 140px;
+    background-color:#E7EBF5;
+    border: 2px solid  #000;
+}
+#precio{
+    margin:auto;
+    height: 20px;
+    width: 140px;
+    background-color: #E7EBF5;
+    border: 2px solid  #000;
+}
+
+
+.icon
+{
+ background-image:url(../Imagenes/1.jpg);
+       height: 20px;
+    width: 140px;
+}
